@@ -1,7 +1,7 @@
 [  
   {
      'id':101,
-     'name': 'Pencil'
+     'name': 'Pencil',
      'price':200,
      'quantity:3,
      'pic':''
